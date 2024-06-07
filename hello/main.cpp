@@ -1,4 +1,3 @@
-// Learn with Examples, 2020, MIT license
 #include <systemc.h> // include the systemC header file
 // using namespace sc_core; // use namespace
 
